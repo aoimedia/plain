@@ -1,0 +1,54 @@
+#nav{
+	margin: 2em 1em 4em 1em;
+	padding-top: 1px;
+	text-align: center;
+}
+
+
+
+#article h1{
+	margin-bottom: 0;
+}
+
+#article #meta{
+	margin-bottom: 2em;
+	text-align: center;
+	line-height: 1.75em;
+	color: #777;
+}
+
+#article #author{
+	display: inline-block;
+}
+
+
+
+#pagination{
+	margin: 4em auto 4em auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1px;
+	max-width: 36em;
+}
+
+#pagination #previous{
+	float: left;
+}
+
+#pagination #next{
+	float: right;
+}
+
+
+
+@media (max-width: 32em){
+	h1{
+		font-size: 55px;
+	}
+}
+
+@media (max-width: 28em){
+	h1{
+		font-size: 40px;
+	}
+}

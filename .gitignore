@@ -1,0 +1,10 @@
+.DS_Store
+/assets/avatars
+/kirby
+/site/accounts
+/site/cache
+/site/config
+/site/plugins
+/thumbs
+/index.php
+/.htaccess

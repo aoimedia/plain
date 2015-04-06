@@ -1,0 +1,6 @@
+title: main page
+----
+text:
+*plain* is a minimalistic [Kirby](http://getkirby.com/) blog theme. It has been created by [Jannis R](http://jannisr.de) for his travel adventures. Have a look at the [source code on GitHub](https://github.com/derhuerst/plain/blob/master) to see how it works.
+
+[Kirby](http://getkirby.com) is a lightweight, flexible and file-based CMS made by [Bastian Allgeier](http://bastianallgeier.com).

@@ -1,0 +1,23 @@
+{
+	"name": "plain",
+	"description": "A minimalistic Kirby blog theme.",
+	"keywords": [
+		"plain",
+		"kirby",
+		"theme",
+		"minimalistic",
+		"blog",
+		"jannisr"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"homepage": "http://plain.jannisr.de",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/derhuerst/plain.git"
+	},
+	"license": "MIT"
+}
